@@ -20,8 +20,7 @@ This project utilizes an Amazon dataset containing user ratings for electronic p
 **Objective:**
 - Recommend products with the highest number of ratings.
 - Target new customers with the most popular products.
-- Address the [Cold Start Problem](https://github.com/Vaibhav67979/Ecommerce-product-recommendation-system/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/ColdStartProblem.md).
-
+- Address the [Cold Start Problem](https://github.com/Ketan-cmd/E-commerce-Product-recommendation-System/blob/main/ColdStartProblem.md).
 **Outputs:**
 - Recommend the top 5 products with at least 50/100 ratings.
 
